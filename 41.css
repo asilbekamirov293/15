@@ -1,0 +1,23 @@
+.box {
+    margin-left: 800px;
+    border: solid blue 3px;
+    width: 500px;
+    padding: 50px;
+}
+form {
+    margin-left: 135px;
+    background-color: green;
+    width: 195px;
+    height: 170px;
+    padding: 20px;
+}
+h2 {
+    margin-left: 85px;
+}
+.box2 {
+    margin-top: 20px;
+}
+.box2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
